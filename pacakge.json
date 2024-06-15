@@ -1,0 +1,32 @@
+{
+    "name": "midtronix-github-io",
+    "version": "1.0.0",
+    "description": "Client Applications",
+    "author": "Ahmet Ermebas",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/midtronix/midtronix.github.io.git"
+    },
+    "keywords": [
+        "midtronix",
+        "software",
+        "inventory",
+        "pos",
+        "surveliance",
+        "camera",
+        "alarm"
+    ],
+    "bugs": {
+        "url": "https://github.com/midtronix/midtronix.github.io/issues"
+    },
+    "homepage": "https://midtronix.github.io",
+    "scriptsMeta": {
+        "build": {
+            "description": "Build the static site"
+        },
+        "deploy": {
+            "description": "Deploy the built site to GitHub Pages"
+        }
+    }
+}
